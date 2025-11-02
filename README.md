@@ -85,7 +85,7 @@ UPDATE users SET is_admin = TRUE WHERE username = 'admin_username';
 
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/<your-username>/library-management-system.git
+git clone [https://github.com/<your-username>/library-management-system.git](https://github.com/Paul7297/I-sem-py-project-lyb_CLI)
 
 Navigate into the project folder:
 cd library-management-system

@@ -12,7 +12,7 @@ This project allows users to register, log in, borrow, and return books, and ena
 - **Course:** MCA (Data Science)  
 - **University:** Chandigarh University  
 - **Project Type:** Mini Project  
-- **Semester:** [Add your current semester, e.g., 1st or 2nd Semester]  
+- **Semester:** [1st SEM]  
 
 ---
 

@@ -110,22 +110,22 @@ Enter choice (or press Ctrl+C to quit):
 
 **Library Menu (User):**
 📚 Library Menu:
-1. Add New Book
-2. Search for Book
-3. List Available Books
-4. Borrow Book
-5. Return Book
-6. View Borrowed Books
-7. View All Books
-9. Exit
+1. Search for Book
+2. List Available Books
+3. Borrow Book
+4. Return Book
+5. View Borrowed Books
+6. View All Books
+7. Exit
 Enter your choice (1–7 or 'q' to quit):
 
 **Admin Menu:**
 🔐 ADMIN MENU
-1. View all borrowed books
-2. View all books
-3. Delete a book
-4. Back to main menu
+1. Add New Book
+2. View all borrowed books
+3. View all books
+4. Delete a book
+5. Back to main menu
 Enter your choice (1–4):
 
 
